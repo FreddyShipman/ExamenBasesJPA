@@ -1,13 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Enum.java to edit this template
- */
 package Enum;
 
 /**
  *
- * @author alfre
+ * @author JOSE ALFREDO GUZMAN MORENO - 00000252524
  */
 public enum Universo {
-    
+    MARVEL, DC, INDEPENDIENTE
 }

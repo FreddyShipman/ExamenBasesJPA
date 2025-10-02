@@ -1,4 +1,4 @@
-db.url=jdbc:mysql://localhost:3306/ExamenJPA
+db.url=jdbc:mysql://localhost:3306/SuperHeroes
 db.user=root
 db.password=One for all 8950
 db.driver=com.mysql.cj.jdbc.Driver

@@ -1,1 +1,9 @@
+Util\JPAUtil.class
+DAO\SuperHeroeDAO.class
+Entidad\SuperHeroe.class
 examenjpa\JPASuperHeroe.class
+Conexion\ConexionJPA$ConnectionDB.class
+Enum\Universo.class
+Enum\IdentidadSecreta.class
+Interfaz\ISuperHeroeDAO.class
+Conexion\ConexionJPA.class
